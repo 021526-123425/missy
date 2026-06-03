@@ -1,10 +1,11 @@
 sudo su -_missyMatherson
 mute
 <off>   
-mkfs ext4 dev/sda8.3
+mkfs ext4 dev/sda8.1
 <off>
 git clone https://github.com/0xeb/vibe-re
 <off>
+mkfs ext4 dev/sda7.3
 git clone https://github.com/sophos/SOREL-20M   
 mkfs ext4 dev/sda8. 2b 
 <off>
