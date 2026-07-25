@@ -1,7 +1,7 @@
 sudo su -_missyMatherson
 mute
 <off>   
-mkfs ext4 dev/sda8.1
+mkfs ext4 dev/sda8.1 
 <off>
 git clone https://github.com/0xeb/vibe-re
 <off>
